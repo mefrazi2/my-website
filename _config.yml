@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Test"
 title_separator          : "-"
 name                     : &name "Mech Frazier"
 description              : &description "Get to know me a bit better. I try to keep this website updated yearly."   # Update this with a general description of your site, this is the default if not overridden by a page
